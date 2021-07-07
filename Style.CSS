@@ -1,0 +1,39 @@
+.textcolor{
+    color: orange;
+}
+.section1{
+    display:flex;
+    margin-bottom: 100px;
+
+}
+.half-width{
+    width: 50%;
+}
+.textsize{
+    font-size: 3em;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.linkbutton{
+    text-decoration: none;
+    font-size: 50px;
+    background-color: orange;
+    padding:10px;
+    border-radius: 10px;
+    
+}
+.background{
+    background-image: url(images/shapes/7.png);
+}
+.linkbutton2{
+    text-decoration: none;
+    font-size: 50px;
+    background-color: orange;
+    padding:10px;
+    border-radius: 10px;
+    margin-bottom: 200px;
+}
+.recipies1{
+    text-align: center;
+    color: rgb(49, 20, 20);
+}
